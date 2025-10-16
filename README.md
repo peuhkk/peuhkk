@@ -36,7 +36,3 @@
 </div>
 
 ---
-
-<p align="center">
-  <i>“Codando um pouco todos os dias ☕”</i>
-</p>
