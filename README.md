@@ -8,13 +8,6 @@
 
 <div align="center">
 
-<a href="https://github.com/peuhkk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=peuhkk&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
-</a>
-<a href="https://github.com/peuhkk">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peuhkk&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
-</a>
-
 </div>
 
 ---
