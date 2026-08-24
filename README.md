@@ -8,12 +8,6 @@
 
 <div align="center">
 
-</div>
-
----
-
-<div align="center">
-
 <a href="#"><img src="https://skillicons.dev/icons?i=java,git,github,vscode,eclipse&theme=dark" /></a>
 
 </div>
